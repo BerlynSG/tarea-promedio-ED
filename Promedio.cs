@@ -10,11 +10,12 @@ public class Promedio
 
     public double CalcularPromedio()
     {
+        if (numeros.Count == 0) return 0;
         double suma = 0;
         foreach (double numero in numeros)
         {
             suma += numero;
         }
-        return numeros.Count > 0 ? suma / numeros.Count : 0;
+        return suma / numeros.Count;
     }
 }
