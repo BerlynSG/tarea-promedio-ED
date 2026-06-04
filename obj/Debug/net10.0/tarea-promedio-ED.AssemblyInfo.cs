@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tarea-promedio-ED")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aea8c9d262982920eb2c9a6bdd020842ac5b5b74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a47d9ce87f425eaecd6ae4a2af2aeaf6fd2c9f6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("tarea-promedio-ED")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tarea-promedio-ED")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

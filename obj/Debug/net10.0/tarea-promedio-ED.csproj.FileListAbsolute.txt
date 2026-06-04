@@ -1,0 +1,15 @@
+/home/berlyn/Música/tarea-promedio-ED/bin/Debug/net10.0/tarea-promedio-ED
+/home/berlyn/Música/tarea-promedio-ED/bin/Debug/net10.0/tarea-promedio-ED.deps.json
+/home/berlyn/Música/tarea-promedio-ED/bin/Debug/net10.0/tarea-promedio-ED.runtimeconfig.json
+/home/berlyn/Música/tarea-promedio-ED/bin/Debug/net10.0/tarea-promedio-ED.dll
+/home/berlyn/Música/tarea-promedio-ED/bin/Debug/net10.0/tarea-promedio-ED.pdb
+/home/berlyn/Música/tarea-promedio-ED/obj/Debug/net10.0/tarea-promedio-ED.GeneratedMSBuildEditorConfig.editorconfig
+/home/berlyn/Música/tarea-promedio-ED/obj/Debug/net10.0/tarea-promedio-ED.AssemblyInfoInputs.cache
+/home/berlyn/Música/tarea-promedio-ED/obj/Debug/net10.0/tarea-promedio-ED.AssemblyInfo.cs
+/home/berlyn/Música/tarea-promedio-ED/obj/Debug/net10.0/tarea-promedio-ED.csproj.CoreCompileInputs.cache
+/home/berlyn/Música/tarea-promedio-ED/obj/Debug/net10.0/tarea-promedio-ED.sourcelink.json
+/home/berlyn/Música/tarea-promedio-ED/obj/Debug/net10.0/tarea-promedio-ED.dll
+/home/berlyn/Música/tarea-promedio-ED/obj/Debug/net10.0/refint/tarea-promedio-ED.dll
+/home/berlyn/Música/tarea-promedio-ED/obj/Debug/net10.0/tarea-promedio-ED.pdb
+/home/berlyn/Música/tarea-promedio-ED/obj/Debug/net10.0/tarea-promedio-ED.genruntimeconfig.cache
+/home/berlyn/Música/tarea-promedio-ED/obj/Debug/net10.0/ref/tarea-promedio-ED.dll
