@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jg2Y1MjkJcw=",
+  "success": true,
+  "projectFilePath": "/home/berlyn/Música/tarea-promedio-ED/tarea-promedio-ED.csproj",
+  "expectedPackageFiles": [
+    "/home/berlyn/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
